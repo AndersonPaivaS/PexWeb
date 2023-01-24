@@ -1,0 +1,25 @@
+
+.filterContainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 19px;
+    margin-top: 29px;
+    margin-left: 20px;
+
+    width: 644px;
+    height: 61px;
+
+    background: #FFFFFF;
+    box-shadow: 14px 17px 40px 4px rgba(112, 144, 176, 0.08);
+    border-radius: 30px;
+}
+
+.filterContainer h1 {
+    margin-left: 33px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 24px;
+    color: #707EAE;
+}

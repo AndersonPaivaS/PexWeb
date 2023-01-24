@@ -1,0 +1,26 @@
+
+.user {
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    gap: 11px;
+
+    width: 214px;
+    height: 41px;
+    background: #F4F7FE;
+    border-radius: 49px;
+}
+
+.user img {
+    width: 11px;
+    height: 11px;
+    margin-left: 20px;
+}
+
+.user h2 {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    color: #8F9BBA;
+}

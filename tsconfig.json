@@ -23,7 +23,7 @@
     "next-env.d.ts",
     "**/*.ts",
     "**/*.tsx"
-, "src/components/ExBar.jsx", "src/components/Profile.jsx"  ],
+, "src/components/ExBar.jsx", "src/components/Profile.jsx", "src/components/boxSemiLarge"  ],
   "exclude": [
     "node_modules"
   ]

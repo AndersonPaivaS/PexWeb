@@ -1,0 +1,55 @@
+
+.boxSmallContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 249px;
+    height: 97px;
+    padding-left: 25px;
+    margin-top: 25px;
+
+    background: #FFFFFF;
+    border-radius: 20px;
+}
+
+.boxSmallContainer h2{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: -0.02em;
+    color: #A3AED0;
+}
+
+.boxSmallContainer div {
+    display: flex;
+    align-items: center;
+    gap: 7px;
+}
+
+.boxSmallContainer div h1{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 32px;
+    letter-spacing: -0.02em;
+    color: #2B3674;
+}
+
+.boxSmallContainer div h3{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: -0.02em;
+    color: #A3AED0;
+}
+
+.boxSmallContainer p{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 20px;
+    letter-spacing: -0.02em;
+
+}

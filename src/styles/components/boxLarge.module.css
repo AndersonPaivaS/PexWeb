@@ -1,0 +1,100 @@
+
+.boxLargeContainer {
+    width: 516px;
+    height: 351px;
+
+    background: #FFFFFF;
+    border-radius: 20px;
+}
+
+.header {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-top: 19px;
+    height: 127px;
+    border-bottom: 1px solid #E9EDF7;
+}
+
+.header h1 {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 32px;
+    letter-spacing: -0.02em;
+    color: #2B3674;
+}
+
+.header p {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: -0.02em;
+    color: #A3AED0;
+}
+
+.header h2 {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: -0.02em;
+    color: #A3AED0;
+}
+
+.titles {
+    display: flex;
+    flex-direction: column;
+    margin-left: 31px;
+}
+
+.titles :last-child {
+    margin-top: -5px;
+}
+
+.columns {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 6px;
+}
+
+.columns :first-child {
+    margin-left: 31px;
+}
+
+.columns  :last-child {
+    margin-right: 35px;
+}
+
+.mainContainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-left: 31px;
+    padding-right: 30px;
+    padding-top: 16px;
+    padding-bottom: 39px;
+}
+
+.rows {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 23px;
+}
+
+.rows h3 {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: -0.02em;
+    color: #2B3674;
+    max-width: 180px;
+}
+
+
+
+
+

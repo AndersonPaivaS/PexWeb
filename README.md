@@ -1,6 +1,2 @@
 
 
---> CSS Modules
-
---> Next JS
-

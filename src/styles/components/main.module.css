@@ -1,0 +1,31 @@
+
+.mainContainer {
+    width: 1610px;
+    height: 1732px;
+}
+
+.boxSemiLarge {
+    display: flex;
+}
+
+.boxSmall {
+    display: flex;
+    gap: 15px;
+    margin-left: 20px;
+}
+
+.boxMedium {
+    display: flex;
+    gap: 20px;
+    margin-left: 20px;
+    margin-right: 19px;
+    margin-top: 22px;
+}
+
+.boxLarge {
+    display: flex;
+    gap: 20px;
+    margin-left: 20px;
+    margin-right: 22px;
+    margin-top: 30px;
+}
